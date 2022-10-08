@@ -1,1 +1,1 @@
-# newsAPI
+# news-JS
